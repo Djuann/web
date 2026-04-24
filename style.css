@@ -1,10 +1,10 @@
 :root {
-    --bg-color: #0f172a;
-    --text-main: #f8fafc;
-    --text-muted: #94a3b8;
+    --bg-color: #084d1f;
+    --text-main: #fffcfc;
+    --text-muted: #ffffff;
 
-    --gradient-primary: linear-gradient(135deg, #06b6d4, #8b5cf6);
-    --gradient-hover: linear-gradient(135deg, #0891b2, #7c3aed);
+    --gradient-primary: linear-gradient(135deg, #e00000, #4a00f7);
+    --gradient-hover: linear-gradient(135deg, #e60000, #5c00fc);
 
     --card-bg: rgba(30, 41, 59, 0.7);
     --card-border: #334155;
@@ -46,10 +46,10 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: rgba(15, 23, 42, 0.85);
+    background: rgba(166, 185, 59, 0.85);
     backdrop-filter: blur(10px);
     z-index: 1000;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    border-bottom: 1px solid rgba(131, 28, 28, 0.05);
 }
 
 .navbar .logo {
